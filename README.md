@@ -1,5 +1,5 @@
 # Restaurant-
-This was a project me and my group made while at UMES. Its a restaurant based program. 
+This was a project me and my group made while at UMES. Its a restaurant based program in python. 
 It displays 5 items on the menu.
 asks the customer how many items they want to order.
 Lets the customer select items by number and specify quanitities.
